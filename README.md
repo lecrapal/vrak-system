@@ -1,7 +1,5 @@
 # Règles de Vrak
 
-Ce dossier rassemble les règles jouables de Vrak, avec les pages utiles pour les joueurs et les outils de calibration pour le MJ.
-
 ## Sommaire
 
 1. [Règles de Base](01%20-%20Règles%20de%20Base.md)
